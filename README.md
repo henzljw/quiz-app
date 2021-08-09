@@ -1,16 +1,14 @@
 # quiz
 
-A new Flutter project.
+A quiz application made with Flutter and Dart. This is an application which I made while learning my Flutter and Dart course from the udemy courses
+called [Flutter & Dart - The Complete Guide [2021 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/), created by
+[Maximilian Schwarzmüller](https://www.udemy.com/user/academind/)
 
-## Getting Started
+## APK (TBA)
 
-This project is a starting point for a Flutter application.
+## Screenshot // Demo (TBA)
 
-A few resources to get you started if this is your first Flutter project:
+## Useful references
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter's Official Documentation](https://flutter.dev/docs)
+- [Flutter & Dart - The Complete Guide [2021 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
