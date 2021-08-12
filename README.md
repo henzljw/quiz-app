@@ -4,6 +4,8 @@ A simple quiz application which is made with Flutter and Dart while I'm learning
 
 ## APK (TBA)
 
+[Quiz app APK](app-release.apk)
+
 ## Screenshot // Demo (TBA)
 
 ## Useful references
